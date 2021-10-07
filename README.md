@@ -1,0 +1,2 @@
+# ClassB
+set b
